@@ -184,7 +184,7 @@ export default function Home() {
           <span className="eyebrow"><span className="dot" /> JavaScript · React · Next.js</span>
           <div className="hero-grid">
             <div>
-              <h1>Build the web the way it&apos;s <em>built today.</em></h1>
+              <h1>Hello World!</h1>
               <p className="lead">
                 One language, one UI library, one framework. A practical guide to the stack behind most
                 modern websites, from your first function to your first deploy.
